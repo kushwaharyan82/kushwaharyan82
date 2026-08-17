@@ -36,7 +36,6 @@ Git | GitHub | Jupyter Notebook | VS Code
 - 📄 PDF Chatbot using RAG
 - 🤖 AI Resume Screener
 - 🧠 Multi-Agent AI Assistant
-- 🔔 Smart Doorbell with Face Detection
 
 ### 📚 Currently Learning
 
