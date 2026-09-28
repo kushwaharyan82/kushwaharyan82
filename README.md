@@ -7,7 +7,7 @@ I am a BTech student specializing in Artificial Intelligence & Machine Learning,
 ### 🚀 About Me
 
 - 🎓 BTech in Artificial Intelligence & Machine Learning
-- 💻 Learning Python, C++, SQL & DSA
+- 💻 Learning Python, SQL & DSA
 - 🤖 Interested in Machine Learning, Deep Learning & Generative AI
 - 📊 Interested in Data Science & Data Analysis
 - 🧠 Practicing DSA for technical interviews
